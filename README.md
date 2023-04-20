@@ -1,4 +1,4 @@
-# Climate-Clock
+# 2023-SSC-Climate-Clock
 Basic stopwatch, with gauges indicating: 
 - Trees lost
 - Carbon dioxide released
